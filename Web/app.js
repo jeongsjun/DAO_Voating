@@ -1,5 +1,5 @@
 // 스마트 컨트랙트 주소 (새로 배포된 주소로 교체)
-const contractAddress = '0xE2B9674e2ca8e37D89d760FCF3E9602A7eF30018';
+const contractAddress = '[배포된 스마트 컨트랙트 주소]';
 
 // 스마트 컨트랙트 ABI (함수 정의 정보)
 const abi = [
